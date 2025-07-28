@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+        "my-mcp-server": {
+            "command": "python",
+            "args": [
+                "C:\\Users\\Admin\\Desktop\\mcp\\my_mcp_server.py"
+            ],
+            "cwd": "C:\\Users\\Admin\\Desktop\\mcp",
+            "env": {},
+            "disabled": false,
+            "autoApprove": [
+                "echo",
+                "reverse_text"
+            ]
+        }
+    }
+}

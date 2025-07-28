@@ -44,8 +44,7 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Kiro IDE settings (keep local only)
-.kiro/settings/
+# Note: .kiro folder included for MCP configuration example
 
 # Logs
 *.log
