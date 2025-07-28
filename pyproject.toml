@@ -1,0 +1,14 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "my-mcp-server"
+version = "0.1.0"
+description = "A simple MCP server example"
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[project.scripts]
+my-mcp-server = "my_mcp_server:main"
